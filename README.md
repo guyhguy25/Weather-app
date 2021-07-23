@@ -1,5 +1,7 @@
 # Next Steps ™️
 
+Live demo [here](https://weather-app-wine-two.vercel.app/).
+
 * Add a toggle for C or F units
 * Add media queries to make it responsive
 * Get the users current location
